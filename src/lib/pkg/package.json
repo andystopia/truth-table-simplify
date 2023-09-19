@@ -1,0 +1,14 @@
+{
+  "name": "binary-simplify",
+  "version": "0.1.0",
+  "files": [
+    "binary_simplify_bg.wasm",
+    "binary_simplify.js",
+    "binary_simplify.d.ts"
+  ],
+  "module": "binary_simplify.js",
+  "types": "binary_simplify.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
